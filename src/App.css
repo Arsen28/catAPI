@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+iframe {
+  pointer-events: none;
+}

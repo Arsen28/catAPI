@@ -1,0 +1,22 @@
+.container {
+    display: inline-block;
+    padding: 10px ;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background: #1e40af;;
+    color: white;
+    border-radius: 20px;
+    padding: 12px 28px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
